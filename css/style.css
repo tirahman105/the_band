@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.hero2{
+	padding: 120px 180px 90px 180px;
+	text-align: center;
+}
+.hero2 h5{
+	font-style: oblique;
+	margin-bottom: 20px;
+	color: #8C8C8CFF;
+}
+.hero2 p{
+	text-align: justify;
+}
+
+.col p{
+
+	text-align: center;
+}
+#hero3{
+	background-color: black;
+	color: white;
+	padding: 120px 180px 90px 180px;
+	text-align: center;
+}
+#hero3 .card-body{
+	background-color: white;
+	color: black;
+	text-align: left;
+}
+#hero3 button{
+	border-radius: 0px;
+	padding: 2px 8px;
+}
+#hero3 .badge{
+	width: 10px;
+	float: right;
+}
+#hero3 .container{
+	margin-top: 10px;
+}
+
+#hero3 .container .card-text{
+	text-align: left;
+}
+#contact {
+	margin-top: 20px;
+}
+#contact h2
+ , p{
+	text-align: center;
+
+}
+#contact form {
+	background-color: white;
+}
+#contact .col .p-3 p{
+	
+	margin-left: 50px;
+	margin-top: 20px;
+}
+#contact button{
+	float: right;
+
+}
+#contact .col-12{
+	margin-top: 2px;
+}
+
+#footer{
+	margin: 20px;
+	text-align: center;
+}
